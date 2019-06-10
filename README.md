@@ -11,6 +11,4 @@ Esta es una aplicación React de una sola página (single-page) que interactúa 
 `npm install`
 5. Iniciar el server:
 `npm run dev`
-6. Se podrá acceder a la aplicación en la siguiente url  [](http://localhost:3000) 
-
-# GrouponTest
+6. Se podrá acceder a la aplicación en la siguiente url [Groupon Test](http://localhost:3000) 
